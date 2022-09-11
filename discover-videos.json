@@ -3,20 +3,20 @@
 	"description": "",
 	"kind": "DYNAMIC",
 	"feedid": "0FDAGB12",
-	"links": { "first": "https://cdn.jwplayer.com/v2/playlists/0FDAGB12?format=json&internal=false&page_offset=1&page_limit=15", "last": "https://cdn.jwplayer.com/v2/playlists/0FDAGB12?format=json&internal=false&page_offset=1&page_limit=15" },
+	"links": { "first": "https://raw.githubusercontent.com/scillidan/personal-repo-cos/main/discover-videos.json?format=json&internal=false&page_offset=1&page_limit=15", "last": "https://raw.githubusercontent.com/scillidan/personal-repo-cos/main/discover-videos.json?format=json&internal=false&page_offset=1&page_limit=15" },
 	"playlist": [
 		{
-			"title": "Surfing Ocean Wave",
+			"title": "",
 			"mediaid": "RDn7eg0o",
 			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/RDn7eg0o/poster.jpg?width=720",
+			"image": "https://s1.webmshare.com/t/nQxxP.jpg?width=720",
 			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/RDn7eg0o/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/RDn7eg0o/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/RDn7eg0o/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/RDn7eg0o/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/RDn7eg0o/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/RDn7eg0o/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=320", "width": 320, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=480", "width": 480, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=640", "width": 640, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=720", "width": 720, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
 			],
 			"feedid": "0FDAGB12",
 			"duration": 22,
@@ -24,8 +24,8 @@
 			"description": "POV Surfing View Empty Ocean Waves Crashing",
 			"tags": "stock video",
 			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/RDn7eg0o.mpd", "type": "application/dash+xml", "mediaTypes": ["audio/webm; codecs=\"vorbis\"", "video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/RDn7eg0o.m3u8", "type": "application/vnd.apple.mpegurl" },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/dash+xml", "mediaTypes": ["audio/webm; codecs=\"vorbis\"", "video/webm; codecs=\"vp9\""] },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/vnd.apple.mpegurl" },
 				{ "file": "https://cdn.jwplayer.com/videos/RDn7eg0o-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 469744, "filesize": 1315475, "framerate": 30.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/RDn7eg0o-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 733592, "filesize": 2054335, "framerate": 30.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/RDn7eg0o-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 1066912, "filesize": 2987765, "framerate": 30.0 },
@@ -40,14 +40,14 @@
 			"title": "Surfers at Sunrise",
 			"mediaid": "tkM1zvBq",
 			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/tkM1zvBq/poster.jpg?width=720",
+			"image": "https://s1.webmshare.com/t/nQxxP.jpg?width=720",
 			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/tkM1zvBq/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/tkM1zvBq/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/tkM1zvBq/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/tkM1zvBq/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/tkM1zvBq/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/tkM1zvBq/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=320", "width": 320, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=480", "width": 480, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=640", "width": 640, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=720", "width": 720, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
 			],
 			"feedid": "0FDAGB12",
 			"duration": 24,
@@ -55,8 +55,8 @@
 			"description": "Aerial of Silhouette of surfers at sunrise",
 			"tags": "stock video",
 			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/tkM1zvBq.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/tkM1zvBq.m3u8", "type": "application/vnd.apple.mpegurl" },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/vnd.apple.mpegurl" },
 				{ "file": "https://cdn.jwplayer.com/videos/tkM1zvBq-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 120616, "filesize": 364873, "framerate": 25.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/tkM1zvBq-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 219528, "filesize": 664086, "framerate": 25.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/tkM1zvBq-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 339504, "filesize": 1027013, "framerate": 25.0 },
@@ -70,14 +70,14 @@
 			"title": "Slow Motion Sparks",
 			"mediaid": "l76Ij09F",
 			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/l76Ij09F/poster.jpg?width=720",
+			"image": "https://s1.webmshare.com/t/nQxxP.jpg?width=720",
 			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/l76Ij09F/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/l76Ij09F/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/l76Ij09F/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/l76Ij09F/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/l76Ij09F/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/l76Ij09F/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=320", "width": 320, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=480", "width": 480, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=640", "width": 640, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=720", "width": 720, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
 			],
 			"feedid": "0FDAGB12",
 			"duration": 28,
@@ -85,8 +85,8 @@
 			"description": "Flashing sparks on black background in slow motion",
 			"tags": "stock video",
 			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/l76Ij09F.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/l76Ij09F.m3u8", "type": "application/vnd.apple.mpegurl" },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/vnd.apple.mpegurl" },
 				{ "file": "https://cdn.jwplayer.com/videos/l76Ij09F-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 435792, "filesize": 1550295, "framerate": 24.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/l76Ij09F-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 639232, "filesize": 2273995, "framerate": 24.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/l76Ij09F-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 1017864, "filesize": 3620948, "framerate": 24.0 },
@@ -100,14 +100,14 @@
 			"title": "Skater Friends",
 			"mediaid": "KkqEqb3o",
 			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/KkqEqb3o/poster.jpg?width=720",
+			"image": "https://s1.webmshare.com/t/nQxxP.jpg?width=720",
 			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/KkqEqb3o/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/KkqEqb3o/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/KkqEqb3o/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/KkqEqb3o/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/KkqEqb3o/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/KkqEqb3o/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=320", "width": 320, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=480", "width": 480, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=640", "width": 640, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=720", "width": 720, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
 			],
 			"feedid": "0FDAGB12",
 			"duration": 14,
@@ -115,8 +115,8 @@
 			"description": "Rear view slow motion shot of a group of teenage skater friends walking on mountain road with long boards together in slow motion",
 			"tags": "stock video",
 			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/KkqEqb3o.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/KkqEqb3o.m3u8", "type": "application/vnd.apple.mpegurl" },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/vnd.apple.mpegurl" },
 				{ "file": "https://cdn.jwplayer.com/videos/KkqEqb3o-Zq6530MP.mp4", "type": "video/mp4", "height": 168, "width": 320, "label": "H.264 320px", "bitrate": 382144, "filesize": 712708, "framerate": 25.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/KkqEqb3o-TNpruJId.mp4", "type": "video/mp4", "height": 254, "width": 480, "label": "H.264 480px", "bitrate": 637144, "filesize": 1188278, "framerate": 25.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/KkqEqb3o-cIp6U8lV.mp4", "type": "video/mp4", "height": 380, "width": 720, "label": "H.264 720px", "bitrate": 884432, "filesize": 1649467, "framerate": 25.0 },
@@ -130,14 +130,14 @@
 			"title": "Road Trip",
 			"mediaid": "iLwfYW2S",
 			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/iLwfYW2S/poster.jpg?width=720",
+			"image": "https://s1.webmshare.com/t/nQxxP.jpg?width=720",
 			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/iLwfYW2S/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/iLwfYW2S/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/iLwfYW2S/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/iLwfYW2S/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/iLwfYW2S/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/iLwfYW2S/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=320", "width": 320, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=480", "width": 480, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=640", "width": 640, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=720", "width": 720, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
 			],
 			"feedid": "0FDAGB12",
 			"duration": 27,
@@ -145,8 +145,8 @@
 			"description": "Friends on a road trip at sunset",
 			"tags": "stock video",
 			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/iLwfYW2S.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/iLwfYW2S.m3u8", "type": "application/vnd.apple.mpegurl" },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/vnd.apple.mpegurl" },
 				{ "file": "https://cdn.jwplayer.com/videos/iLwfYW2S-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 421208, "filesize": 1455298, "framerate": 25.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/iLwfYW2S-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 635712, "filesize": 2196387, "framerate": 25.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/iLwfYW2S-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 990992, "filesize": 3423881, "framerate": 25.0 },
@@ -159,15 +159,15 @@
 		{
 			"title": "Road Cycling Outdoors",
 			"mediaid": "i3q4gcBi",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/i3q4gcBi/poster.jpg?width=720",
+			"link": "https://s1.webmshare.com/nQxxP.webm",
+			"image": "https://s1.webmshare.com/t/nQxxP.jpg?width=720",
 			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/i3q4gcBi/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/i3q4gcBi/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/i3q4gcBi/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/i3q4gcBi/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/i3q4gcBi/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/i3q4gcBi/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=320", "width": 320, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=480", "width": 480, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=640", "width": 640, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=720", "width": 720, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
+				{ "src": "https://s1.webmshare.com/t/nQxxP.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
 			],
 			"feedid": "0FDAGB12",
 			"duration": 23,
@@ -175,8 +175,8 @@
 			"description": "Healthy man cycling on road outdoors",
 			"tags": "stock video",
 			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/i3q4gcBi.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/i3q4gcBi.m3u8", "type": "application/vnd.apple.mpegurl" },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
+				{ "file": "https://s1.webmshare.com/nQxxP.webm", "type": "application/vnd.apple.mpegurl" },
 				{ "file": "https://cdn.jwplayer.com/videos/i3q4gcBi-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 321296, "filesize": 923743, "framerate": 24.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/i3q4gcBi-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 597024, "filesize": 1716449, "framerate": 24.0 },
 				{ "file": "https://cdn.jwplayer.com/videos/i3q4gcBi-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 945248, "filesize": 2717590, "framerate": 24.0 },
@@ -186,282 +186,6 @@
 			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/i3q4gcBi-120.vtt", "kind": "thumbnails" }],
 			"variations": {}
 		},
-		{
-			"title": "Patagonia Mountain Cabin",
-			"mediaid": "HwbtPOi5",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/HwbtPOi5/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/HwbtPOi5/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/HwbtPOi5/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/HwbtPOi5/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/HwbtPOi5/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/HwbtPOi5/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/HwbtPOi5/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 21,
-			"pubdate": 1495054146,
-			"description": "Mountain cabin at sunrise in Patagonia",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/HwbtPOi5.mpd", "type": "application/dash+xml", "mediaTypes": ["audio/webm; codecs=\"vorbis\"", "video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/HwbtPOi5.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/HwbtPOi5-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 246176, "filesize": 674985, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/HwbtPOi5-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 363704, "filesize": 997248, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/HwbtPOi5-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 519376, "filesize": 1424072, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/HwbtPOi5-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 1215800, "filesize": 3333574, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/HwbtPOi5-g8UjtXW6.m4a", "type": "audio/mp4", "label": "AAC Audio", "bitrate": 113824, "filesize": 312100 },
-				{ "file": "https://cdn.jwplayer.com/videos/HwbtPOi5-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 2764632, "filesize": 7580279, "framerate": 30.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/HwbtPOi5-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Joy Ride",
-			"mediaid": "bsbubDD1",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.mp4?width=320", "width": 320, "type": "video/mp4" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/bsbubDD1/poster.mp4?width=640", "width": 640, "type": "video/mp4" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 20,
-			"pubdate": 1495054429,
-			"description": "Group of friends dancing on the back seat of a convertible car while traveling in a wind farm.",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/bsbubDD1.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/bsbubDD1.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/bsbubDD1-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 239864, "filesize": 610460, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/bsbubDD1-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 434192, "filesize": 1105027, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/bsbubDD1-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 656672, "filesize": 1671234, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/bsbubDD1-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 1658144, "filesize": 4219982, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/bsbubDD1-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 3742720, "filesize": 9525229, "framerate": 25.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/bsbubDD1-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Hiking on the Edge",
-			"mediaid": "8TbJTFy5",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/8TbJTFy5/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/8TbJTFy5/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8TbJTFy5/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8TbJTFy5/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8TbJTFy5/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8TbJTFy5/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8TbJTFy5/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 24,
-			"pubdate": 1495053348,
-			"description": "Epic shot of a man hiking on the edge of the mountain as a silhouette in colorful sunset",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/8TbJTFy5.mpd", "type": "application/dash+xml", "mediaTypes": ["audio/webm; codecs=\"vorbis\"", "video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/8TbJTFy5.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/8TbJTFy5-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 205488, "filesize": 628579, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8TbJTFy5-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 281392, "filesize": 860744, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8TbJTFy5-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 388624, "filesize": 1188768, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8TbJTFy5-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 924616, "filesize": 2828288, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8TbJTFy5-g8UjtXW6.m4a", "type": "audio/mp4", "label": "AAC Audio", "bitrate": 113736, "filesize": 347919 },
-				{ "file": "https://cdn.jwplayer.com/videos/8TbJTFy5-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 2610544, "filesize": 7985334, "framerate": 30.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/8TbJTFy5-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Friends with Sparklers",
-			"mediaid": "pVI22mfa",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/pVI22mfa/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/pVI22mfa/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/pVI22mfa/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/pVI22mfa/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/pVI22mfa/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/pVI22mfa/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/pVI22mfa/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 33,
-			"pubdate": 1495054226,
-			"description": "Friends with sparklers dancing in slow motion",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/pVI22mfa.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/pVI22mfa.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/pVI22mfa-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 431552, "filesize": 1782429, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/pVI22mfa-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 634184, "filesize": 2619357, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/pVI22mfa-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 934792, "filesize": 3860946, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/pVI22mfa-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 2343408, "filesize": 9678880, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/pVI22mfa-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 4901400, "filesize": 20244013, "framerate": 24.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/pVI22mfa-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Driving USA",
-			"mediaid": "8L4m9FJB",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/8L4m9FJB/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/8L4m9FJB/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8L4m9FJB/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8L4m9FJB/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8L4m9FJB/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8L4m9FJB/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8L4m9FJB/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 30,
-			"pubdate": 1495054284,
-			"description": "Beautiful sunset point of view shot along empty desert highway through Monument Valley, Arizona Utah",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/8L4m9FJB.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/8L4m9FJB.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/8L4m9FJB-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 324104, "filesize": 1215415, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8L4m9FJB-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 615640, "filesize": 2308663, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8L4m9FJB-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 934424, "filesize": 3504114, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8L4m9FJB-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 2389752, "filesize": 8961581, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8L4m9FJB-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 5096912, "filesize": 19113422, "framerate": 25.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/8L4m9FJB-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Dogsledding in Alaska",
-			"mediaid": "jumBvHdL",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/jumBvHdL/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/jumBvHdL/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/jumBvHdL/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/jumBvHdL/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/jumBvHdL/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/jumBvHdL/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/jumBvHdL/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 22,
-			"pubdate": 1492541625,
-			"description": "Aerial view of professional dogsledding handler with his team of trained husky dogs mountain pass, Alaska, USA, RED EPIC",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/jumBvHdL.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/jumBvHdL.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/jumBvHdL-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 311712, "filesize": 889946, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/jumBvHdL-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 561160, "filesize": 1602113, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/jumBvHdL-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 876720, "filesize": 2503040, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/jumBvHdL-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 1965840, "filesize": 5612480, "framerate": 25.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/jumBvHdL-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 4137800, "filesize": 11813429, "framerate": 25.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/jumBvHdL-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Daybreak",
-			"mediaid": "7CWdQFCL",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/7CWdQFCL/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/7CWdQFCL/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/7CWdQFCL/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/7CWdQFCL/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/7CWdQFCL/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/7CWdQFCL/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/7CWdQFCL/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 14,
-			"pubdate": 1492541700,
-			"description": "A surfer pulls up in a camper van with a board on top at daybreak on a dirt road in a coastal area",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/7CWdQFCL.mpd", "type": "application/dash+xml", "mediaTypes": ["audio/webm; codecs=\"vorbis\"", "video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/7CWdQFCL.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/7CWdQFCL-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 272760, "filesize": 501038, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/7CWdQFCL-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 404160, "filesize": 742398, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/7CWdQFCL-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 518000, "filesize": 951507, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/7CWdQFCL-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 1230328, "filesize": 2259967, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/7CWdQFCL-g8UjtXW6.m4a", "type": "audio/mp4", "label": "AAC Audio", "bitrate": 114096, "filesize": 209592 },
-				{ "file": "https://cdn.jwplayer.com/videos/7CWdQFCL-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 3013096, "filesize": 5534694, "framerate": 30.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/7CWdQFCL-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Cycle Tour: Tuscany to Umbria",
-			"mediaid": "yp34SRmf",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "cover.jpg?width=720",
-			"images": [
-				{ "src": "cover.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "cover.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "cover.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "cover.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "cover.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "cover.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 25,
-			"pubdate": 1492534726,
-			"description": "Road cycling tour through Italy",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/yp34SRmf.mpd", "type": "application/dash+xml", "mediaTypes": ["audio/webm; codecs=\"vorbis\"", "video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/yp34SRmf.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/yp34SRmf-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 517144, "filesize": 1650929, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/yp34SRmf-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 739944, "filesize": 2362199, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/yp34SRmf-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 1048240, "filesize": 3346395, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/yp34SRmf-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 2412584, "filesize": 7701891, "framerate": 30.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/yp34SRmf-g8UjtXW6.m4a", "type": "audio/mp4", "label": "AAC Audio", "bitrate": 113624, "filesize": 362734 },
-				{ "file": "https://cdn.jwplayer.com/videos/yp34SRmf-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 4826328, "filesize": 15407457, "framerate": 30.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/yp34SRmf-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		},
-		{
-			"title": "Blacksmith",
-			"mediaid": "8cyIGV0w",
-			"link": "Nymphomaniac.Volume.I.2013-00.52.33.483-00.54.20.924.webm",
-			"image": "https://cdn.jwplayer.com/v2/media/8cyIGV0w/poster.jpg?width=720",
-			"images": [
-				{ "src": "https://cdn.jwplayer.com/v2/media/8cyIGV0w/poster.jpg?width=320", "width": 320, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8cyIGV0w/poster.jpg?width=480", "width": 480, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8cyIGV0w/poster.jpg?width=640", "width": 640, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8cyIGV0w/poster.jpg?width=720", "width": 720, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8cyIGV0w/poster.jpg?width=1280", "width": 1280, "type": "image/jpeg" },
-				{ "src": "https://cdn.jwplayer.com/v2/media/8cyIGV0w/poster.jpg?width=1920", "width": 1920, "type": "image/jpeg" }
-			],
-			"feedid": "0FDAGB12",
-			"duration": 28,
-			"pubdate": 1495054325,
-			"description": "Blacksmith brings dripping hot metal from furnace and creates a shower of sparks as he beats a piece of white hot metal with a hammer on an anvil.",
-			"tags": "stock video",
-			"sources": [
-				{ "file": "https://cdn.jwplayer.com/manifests/8cyIGV0w.mpd", "type": "application/dash+xml", "mediaTypes": ["video/webm; codecs=\"vp9\""] },
-				{ "file": "https://cdn.jwplayer.com/manifests/8cyIGV0w.m3u8", "type": "application/vnd.apple.mpegurl" },
-				{ "file": "https://cdn.jwplayer.com/videos/8cyIGV0w-Zq6530MP.mp4", "type": "video/mp4", "height": 180, "width": 320, "label": "H.264 320px", "bitrate": 268200, "filesize": 959681, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8cyIGV0w-TNpruJId.mp4", "type": "video/mp4", "height": 270, "width": 480, "label": "H.264 480px", "bitrate": 461784, "filesize": 1652343, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8cyIGV0w-cIp6U8lV.mp4", "type": "video/mp4", "height": 406, "width": 720, "label": "H.264 720px", "bitrate": 642744, "filesize": 2299838, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8cyIGV0w-FctPAkow.mp4", "type": "video/mp4", "height": 720, "width": 1280, "label": "H.264 1280px", "bitrate": 1648960, "filesize": 5900185, "framerate": 24.0 },
-				{ "file": "https://cdn.jwplayer.com/videos/8cyIGV0w-8yQ1cYbs.mp4", "type": "video/mp4", "height": 1080, "width": 1920, "label": "H.264 1920px", "bitrate": 4166120, "filesize": 14906918, "framerate": 24.0 }
-			],
-			"tracks": [{ "file": "https://cdn.jwplayer.com/strips/8cyIGV0w-120.vtt", "kind": "thumbnails" }],
-			"variations": {}
-		}
 	],
 	"feed_instance_id": "49fa44b0-0fea-4863-807f-e7775768d354"
 }
